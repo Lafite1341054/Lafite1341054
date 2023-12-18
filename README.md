@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lafite1341054.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on ScratchFoundation.
 - 📫 How to reach me : lafite1341054@outlook.com
 
 <!---
