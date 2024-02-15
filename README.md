@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @Lafite1341054.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ScratchFoundation.
-- 📫 How to reach me : lafite1341054@outlook.com
+Hi,I'm Lafite1341054.
 
-<!---
-Lafite1341054/Lafite1341054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can call me Wzx too.
 
-I love China and Programming!
-Python Hooray!
-C++ Hooray!
-Java Hooray!
-Scratch Hooray!
+I'm live in China.
+
+I'm love Program.
+
+I'm a pupil,so don't sall 'You are too water!'.
+
+My![Visitor Count](https://profile-counter.glitch.me/Lafite1341054/count.svg)visitor
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lafite1341054)](https://github.com/Christmas/github-readme-stats)
+
+![Lafite1341054's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lafite1341054&show_icons=true&theme=tokyonight)
